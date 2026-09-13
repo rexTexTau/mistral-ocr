@@ -23,7 +23,7 @@ If your agent supports direct GitHub repository installation, you can use its na
 
 ## 🚀 Usage
 Once installed, your AI agent will automatically load this skill's context. You can invoke it naturally:
-- "Use the mistral-ocr skill to extract all tables from this book photo."
+- "Use the mistral-ocr skill to extract all tables from this book page photo."
 - "Run the mistral-ocr recipe to analyze the layout of this scanned document."
 
 ## 📂 Repository Structure
